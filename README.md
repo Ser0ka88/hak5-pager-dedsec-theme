@@ -2,8 +2,13 @@
 
 > **Note:** Still WIP!
 
-Check out the new dashboard: https://youtube.com/shorts/Akzyx11bdaM
+## Check out the new dashboard: 
 
+### Live
+https://youtube.com/shorts/Akzyx11bdaM
+
+### Virtual Pager
+https://youtube.com/shorts/jum2Mt82ux0
 
 ## Installing Pager Themes
 
