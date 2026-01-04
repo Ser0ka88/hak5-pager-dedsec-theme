@@ -1,8 +1,15 @@
-A Theme for the Hak5 pineapple pager - inspired by Watchdogs 2 dedsec 
+# A Theme for the Hak5 pineapple pager - inspired by Watchdogs 2 dedsec 
 
-Still WIP!
+> **Note:** Still WIP!
 
 Check out the new dashboard: https://youtube.com/shorts/Akzyx11bdaM
+
+
+## Installing Pager Themes
+
+To install a new theme, simply copy it to /root/themes/, or /mmc/root/themes/ (Create the themes directory if it doesn't exist yet).
+
+## Preview Pictures
 
 ![Screenshot](https://raw.githubusercontent.com/Ser0ka88/hak5-pager-dedsec-theme/main/dedsec/assets/dashboard/deadsec_r_bg.png?raw=1)
 
