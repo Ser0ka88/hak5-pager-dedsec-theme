@@ -21,4 +21,4 @@ To install a new theme, simply copy it to /root/themes/, or /mmc/root/themes/ (C
 
 ![Screenshot](https://raw.githubusercontent.com/Ser0ka88/hak5-pager-dedsec-theme/main/preview-pictures/alerts.png?raw=1)
 
-![Screenshot](https://raw.githubusercontent.com/Ser0ka88/hak5-pager-dedsec-theme/main/preview-pictures/launch-dialog.png?raw=1)
+![Screenshot](https://raw.githubusercontent.com/Ser0ka88/hak5-pager-dedsec-theme/main/preview-pictures/launch-dialog.JPG?raw=1)
